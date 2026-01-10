@@ -1,1 +1,1 @@
-amount:500
+money:200amount:500
